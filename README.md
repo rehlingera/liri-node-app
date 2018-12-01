@@ -18,7 +18,7 @@ An app designed to make API calls for movies, songs, and concerts.
     * `concert-this`: This will take a band or musician name and perform a search of 20 upcoming tour dates and locations. If the band is not currently touring, the app will return "Sorry, no concert results for this band!"
 
     ![Step 3 B](https://github.com/rehlingera/liri-node-app/blob/master/assets/Step3b.PNG "Step 3 B")
-    * `spotify-this-song`: This command will take a song name, search for it on Spotify and return up to 20 results, along with the corresponding artists, the album and a link to a preview (if available).
+    * `spotify-this-song`: This command will take a song name, search for it on Spotify and return up to 20 results, along with the corresponding artists, the album and a link to a preview, if available. If there is no preview available, Liri Bot will return "null" instead of a URL.
 
     ![Step 3 C](https://github.com/rehlingera/liri-node-app/blob/master/assets/Step3c.PNG "Step 3 C")
     * `movie-this`: This command will take a movie title and search the Open Movie Database, returning the most relevant result.
@@ -26,7 +26,7 @@ An app designed to make API calls for movies, songs, and concerts.
     ![Step 3 D](https://github.com/rehlingera/liri-node-app/blob/master/assets/Step3d.PNG "Step 3 D")
     * `do-what-it-says`: This command will run a random command stored in the "random.txt" file and display its result.
     
-4. On the same line, type your artist, band, song or movie. Names with spaces should be enclosed in double quotes (`"The Dear Hunter"` or `"The Godfather"`). This is allowed, but not necessary, for single word inputs.
+4. On the same line, type your artist, band, song or movie and press Enter. The Liri Bot will execute its search and bring back your results. At the same time, your command, search term and result will be saved in the "log.txt" file.
 
 ## Examples
 

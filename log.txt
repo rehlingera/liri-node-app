@@ -1,0 +1,810 @@
+Command: concert-this
+Input: CHVRCHES
+
+
+Venue: Aragon Ballroom
+
+Location: Chicago, United States
+
+Date: 12/01/2018
+
+----------
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: spotify-this-song
+Input: cigarettes and chocolate milk
+
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes And Chocolate Milk
+
+Preview: null
+
+Album: Poses
+
+----------
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes And Chocolate Milk
+
+Preview: null
+
+Album: Poses
+
+----------
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes And Chocolate Milk
+
+Preview: null
+
+Album: Vibrate: The Best Of
+
+----------
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes And Chocolate Milk
+
+Preview: null
+
+Album: Vibrate: The Best Of (Deluxe Edition)
+
+----------
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes And Chocolate Milk - Reprise
+
+Preview: null
+
+Album: Poses
+
+----------
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes and Chocolate Milk
+
+Preview: null
+
+Album: Yellow Lounge Compiled By Rufus Wainwright
+
+----------
+
+Artist(s): Rufus Wainwright
+
+Song: Cigarettes And Chocolate Milk - Reprise
+
+Preview: null
+
+Album: Poses
+
+----------
+
+Artist(s): Squeeze-bot
+
+Song: Cigarettes and Chocolate Milk
+
+Preview: https://p.scdn.co/mp3-preview/ad7ccc08d3b46613b29a5c5f64b8633ae0724fed?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Sweet Dreams Are Made of Squeeze
+
+----------
+
+Artist(s): Rickard Söderberg
+
+Song: Cigarettes and Chocolate Milk
+
+Preview: https://p.scdn.co/mp3-preview/15d5bb31c5a503f51cb0d066fd4d0e7aef78a680?cid=f68edaee890c45dcbd1482195f017817
+
+Album: it's a sin
+
+----------
+
+Artist(s): Annie Reiner
+
+Song: Cigarettes and Chocolate Milk
+
+Preview: https://p.scdn.co/mp3-preview/32a1551e1fe7e35ad7ea9834440d17311a05e6b3?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Blues & Other Hues
+
+----------
+
+Artist(s): Drown, Icarus
+
+Song: Chocolate Milk and Cigarettes
+
+Preview: https://p.scdn.co/mp3-preview/6621f434c3d542e47ac0417af6f96f850865d29e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Llamapalooza
+
+----------
+
+Artist(s): Chasertheprince
+
+Song: Cigarettes & Chocolate Milk
+
+Preview: https://p.scdn.co/mp3-preview/5f3af0352c95c37a65f26fd406786f901f36e3e1?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Cigarettes & Chocolate Milk
+
+----------
+
+Artist(s): Animal Nation
+
+Song: Cigarettes & Chocolate Milk
+
+Preview: https://p.scdn.co/mp3-preview/a1e04c09460549e8a8c46599c7092026dd7babf4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Don't Grow Up to be Like Us
+
+----------
+
+Artist(s): Laure Le Prunenec
+
+Song: Cigarettes and Chocolate Milk (Générique de fin) [Extrait de la bande originale du film]
+
+Preview: https://p.scdn.co/mp3-preview/a33eea2956661d23b0ae22595d7e9b0a46fa3998?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Cigarettes and Chocolate Milk (Générique de fin) [Extrait de la bande originale du film] - Single
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: spotify-this-song
+Input: hey jude
+
+
+Artist(s): The Beatles
+
+Song: Hey Jude - Remastered 2015
+
+Preview: null
+
+Album: 1 (Remastered)
+
+----------
+
+Artist(s): Wilson Pickett
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/f9bd7992e08e00c43e21ceeb3f06568cfd961913?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Hey Jude
+
+----------
+
+Artist(s): The Beatles
+
+Song: Hey Jude
+
+Preview: null
+
+Album: Love
+
+----------
+
+Artist(s): Imaginary Future
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/108736b4d343281136190c84cf82fc866e8012f4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Yesterday
+
+----------
+
+Artist(s): Stephen Bennett
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/f3a38e71e61387b4e5d4bbc827567de20f8d461e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Beatles Acoustic Guitar Solos
+
+----------
+
+Artist(s): The Beatles
+
+Song: Hey Jude - Take 1
+
+Preview: null
+
+Album: The Beatles
+
+----------
+
+Artist(s): The Beatles
+
+Song: Hey Jude - Remastered
+
+Preview: null
+
+Album: The Beatles 1967 - 1970 (Remastered)
+
+----------
+
+Artist(s): Happy Baby Lullaby Collection
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/dc80e78e1b5c3bce103f5a170e91a6c2c30f1831?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Baby Beatles Lullaby Children Songs. Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep
+
+----------
+
+Artist(s): Anthem Lights
+
+Song: Let It Be / Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/2f2d287007d157bb58443fc23c54e8de0218228e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Let It Be / Hey Jude
+
+----------
+
+Artist(s): Joe Anderson
+
+Song: Hey Jude - From "Across The Universe" Soundtrack
+
+Preview: null
+
+Album: Across The Universe
+
+----------
+
+Artist(s): Rockabye Baby!
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/eb297b7755e3732791243841f9b4d833a31fedf8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Lullaby Renditions of the Beatles
+
+----------
+
+Artist(s): The Beatles
+
+Song: Hey Jude - Remastered
+
+Preview: null
+
+Album: Past Masters (Vols. 1 & 2 / Remastered)
+
+----------
+
+Artist(s): Glee Cast
+
+Song: Hey Jude (Glee Cast Version)
+
+Preview: https://p.scdn.co/mp3-preview/24113c538fe1177bafc650898d095f8ba9e99afd?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Glee Sings The Beatles
+
+----------
+
+Artist(s): Joe Anderson
+
+Song: Hey Jude - From "Across The Universe" Soundtrack
+
+Preview: null
+
+Album: Across The Universe (Deluxe)
+
+----------
+
+Artist(s): Erik Grönwall
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/dd3155321d17394f91a6db36d2c8d7a6caabe64a?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Erik Grönwall
+
+----------
+
+Artist(s): Paul McCartney
+
+Song: Hey Jude
+
+Preview: null
+
+Album: Back In The U.S.
+
+----------
+
+Artist(s): Jason Lancaster
+
+Song: Hey Jude
+
+Preview: null
+
+Album: As You Are
+
+----------
+
+Artist(s): The Beat Bugs
+
+Song: Hey Jude
+
+Preview: null
+
+Album: Beat Bugs (Music From The Netflix Original Series - Season 3)
+
+----------
+
+Artist(s): Elvis Presley
+
+Song: Hey Jude
+
+Preview: https://p.scdn.co/mp3-preview/62f1abc30037c19352ff31885aba4ec723430a4f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Elvis Now
+
+----------
+
+Artist(s): The Beatles
+
+Song: Hey Jude - Anthology 3 Version
+
+Preview: null
+
+Album: Anthology 3
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: spotify-this-song
+Input: wrecking ball
+
+
+Artist(s): Miley Cyrus
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/73f134920237db5f77576099534ac22fd6773b96?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Bangerz (Deluxe Version)
+
+----------
+
+Artist(s): Eric Church
+
+Song: Like A Wrecking Ball
+
+Preview: null
+
+Album: The Outsiders
+
+----------
+
+Artist(s): Bernard Dubicki
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/a6430b219a00486e7e6c1f53ae2ab2abb4d9d9e2?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball
+
+----------
+
+Artist(s): Miley Cyrus
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/77209833cfb379deb15963a50a71f380d1902f0e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball
+
+----------
+
+Artist(s): Joseph & Maia
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/cf5e037d6b042cdd24028feaebc2b378cbb60eba?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Acoustic Extended Play
+
+----------
+
+Artist(s): August Burns Red
+
+Song: Wrecking Ball
+
+Preview: null
+
+Album: Punk Goes Pop, Vol. 6
+
+----------
+
+Artist(s): Five Finger Death Punch
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/9226b2ccc29e0347abf1882988469feb5c6c029c?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2
+
+----------
+
+Artist(s): Mandolin Orange
+
+Song: That Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/601e4b6c251acef5218feb16750956f0f43a5227?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Such Jubilee
+
+----------
+
+Artist(s): Mother Mother
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/156191a575f47762f9d4ac1a5d4526229bc29269?cid=f68edaee890c45dcbd1482195f017817
+
+Album: O My Heart
+
+----------
+
+Artist(s): Bruce Springsteen
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/d19dddd33700d606ad8e39e81666799084f1c25d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball
+
+----------
+
+Artist(s): Two Worlds
+
+Song: Wrecking Ball - Acoustic
+
+Preview: https://p.scdn.co/mp3-preview/33e4d247b2288790cf6549584317ddca26a9c08e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball (Acoustic)
+
+----------
+
+Artist(s): Gillian Welch
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/26a6cf44ddf88b4b392e2724f7e752a29240bb5b?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Soul Journey
+
+----------
+
+Artist(s): O.A.R.
+
+Song: Caroline The Wrecking Ball
+
+Preview: null
+
+Album: The Rockville LP
+
+----------
+
+Artist(s): Christina Grimmie
+
+Song: Wrecking Ball - The Voice Performance
+
+Preview: null
+
+Album: The Complete Season 6 Collection
+
+----------
+
+Artist(s): Dustin Kensrue
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/5995c85b9ace9844534efb326a455b4747b743c8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Thoughts That Float on a Different Blood
+
+----------
+
+Artist(s): Ryan Adams
+
+Song: My Wrecking Ball
+
+Preview: null
+
+Album: Ryan Adams
+
+----------
+
+Artist(s): Jasmine Thompson
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/8652a87fd9e051d2b5f9443771edf07fc4204c35?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Another Bundle of Tantrums
+
+----------
+
+Artist(s): Bruce Springsteen
+
+Song: We Take Care of Our Own
+
+Preview: https://p.scdn.co/mp3-preview/53f77f3ee6c2ec7cb0fe9b663f2926feea41dd52?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball
+
+----------
+
+Artist(s): Scars On 45
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/dbfe25e41e124cccdc44deda6ff637afb3916130?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball
+
+----------
+
+Artist(s): Bruce Springsteen
+
+Song: Shackled And Drawn
+
+Preview: https://p.scdn.co/mp3-preview/53ea11c91e9aeb83fe8804fe9490b527dc23756f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wrecking Ball
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: eternal sunshine of the spotless mind
+
+Title: Eternal Sunshine of the Spotless Mind
+
+Release Year: 2004
+
+Ratings: Internet Movie Database: 8.3/10, Rotten Tomatoes: 93%, Metacritic: 89/100, 
+
+Country: USA
+
+Language: English
+
+Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+
+Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
