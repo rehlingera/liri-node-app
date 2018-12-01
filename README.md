@@ -29,14 +29,19 @@ An app designed to make API calls for movies, songs, and concerts.
 4. On the same line, type your artist, band, song or movie. Names with spaces should be enclosed in double quotes (`"The Dear Hunter"` or `"The Godfather"`). This is allowed, but not necessary, for single word inputs.
 
 ## Examples
-concert-this:
+
+### concert-this:
+
 ![ConcertExample](https://github.com/rehlingera/liri-node-app/blob/master/assets/ConcertExample.PNG "ConcertExample")
 
-spotify-this-song:
+### spotify-this-song:
+
 ![SpotifyExample](https://github.com/rehlingera/liri-node-app/blob/master/assets/SpotifyExample.PNG "SpotifyExample")
 
-movie-this:
+### movie-this:
+
 ![MovieExample](https://github.com/rehlingera/liri-node-app/blob/master/assets/MovieExample.PNG "MovieExample")
 
-do-what-it-says:
+### do-what-it-says:
+
 ![DoWhatItSaysExample](https://github.com/rehlingera/liri-node-app/blob/master/assets/DoWhatItSaysExample.PNG "DoWhatItSaysExample")
