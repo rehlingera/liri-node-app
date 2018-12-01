@@ -1,5 +1,5 @@
 require("dotenv").config();
-// var keys = require("keys.js");
+var keys = require("./keys.js");
 
 var axios = require("axios");
 
@@ -17,6 +17,10 @@ var concert = function (input) {
     axios.get(queryUrl).then(
         function(response) {
 
+            if(response.data.length===0){
+                console.log("Sorry, no concert results for this band!");
+            };
+
             for(i=0;i<response.data.length;i++){
                 console.log("Venue: " + response.data[i].venue.name);
                 console.log("Location: " + response.data[i].venue.city + ", " + response.data[i].venue.country);
@@ -27,13 +31,13 @@ var concert = function (input) {
     );
 };
 
-var spotify = function (input) {
-    var spotify = new Spotify({
-    id: "f68edaee890c45dcbd1482195f017817",
-    secret: "687dad5118b74559ab3463bf18837c34"
+var spot = function (input) {
+    var sptfy = new Spotify({
+    id: keys.spotify.id,
+    secret: keys.spotify.secret
     });
     
-    spotify.search({ type: 'track', query: input}, function(err, data) {
+    sptfy.search({ type: 'track', query: input}, function(err, data) {
     if (err) {
         return console.log('Error occurred: ' + err);
     };
@@ -49,9 +53,7 @@ var spotify = function (input) {
 };
 
 var movie = function (input) {
-    var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
-
-    console.log(queryUrl);
+    var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=c43c550e";
     
     axios.get(queryUrl).then(
       function(response) {
@@ -77,7 +79,7 @@ if(command==="concert-this"){
 
 else if(command==="spotify-this-song"){
     input = process.argv[3];
-    spotify(input);
+    spot(input);
 }
 
 else if(command==="movie-this"){
@@ -91,10 +93,9 @@ else if(command==="do-what-it-says"){
             console.log("There has been an error. Please try again.");
         };
         var randomArray = data.split(",");
-        console.log(randomArray.length);
+
         //Generate random number with a max of the array length/2
         var randomInt = Math.floor(Math.random() * (randomArray.length/2));
-        console.log(randomInt);
         
         //multiply the random number by 2 for the command
         com = randomInt*2;
@@ -102,7 +103,7 @@ else if(command==="do-what-it-says"){
 
         //add 1 to the command for the input
         inp = +com + 1;
-        console.log("Input: " + randomArray[inp]);
+        console.log("Input: " + randomArray[inp] + "\n==========");
 
         if(randomArray[com]==="concert-this"){
             input = randomArray[inp];
@@ -110,7 +111,7 @@ else if(command==="do-what-it-says"){
         }
         else if(randomArray[com]==="spotify-this-song"){
             input = randomArray[inp];
-            spotify(input);
+            spot(input);
         }
         else if(randomArray[com]==="movie-this"){
             input = randomArray[inp];
