@@ -808,3 +808,5639 @@ Plot: When their relationship turns sour, a couple undergoes a medical procedure
 Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+Command: undefined
+Input: chvrches
+
+
+Venue: Aragon Ballroom
+
+Location: Chicago, United States
+
+Date: 12/01/2018
+
+----------
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: CHVRCHES
+
+
+Venue: Aragon Ballroom
+
+Location: Chicago, United States
+
+Date: 12/01/2018
+
+----------
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: the way you do
+
+
+Artist(s): The Temptations
+
+Song: The Way You Do The Things You Do
+
+Preview: null
+
+Album: Meet The Temptations
+
+----------
+
+Artist(s): Queens of the Stone Age
+
+Song: The Way You Used to Do
+
+Preview: https://p.scdn.co/mp3-preview/e0554425f35d7605b1ded2fe6062d84a7c879c29?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Villains
+
+----------
+
+Artist(s): Queens of the Stone Age
+
+Song: The Way You Used To Do
+
+Preview: https://p.scdn.co/mp3-preview/e0554425f35d7605b1ded2fe6062d84a7c879c29?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Way You Used To Do
+
+----------
+
+Artist(s): Brandi Carlile
+
+Song: Whatever You Do
+
+Preview: https://p.scdn.co/mp3-preview/9c653234f9f7e9dad5f14d0c0f782e89fa298e9f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: By The Way, I Forgive You
+
+----------
+
+Artist(s): UB40
+
+Song: The Way You Do The Things You Do
+
+Preview: null
+
+Album: The Very Best Of
+
+----------
+
+Artist(s): UB40
+
+Song: The Way You Do The Things You Do
+
+Preview: null
+
+Album: Labour Of Love II
+
+----------
+
+Artist(s): Aretha Franklin
+
+Song: Do Right Woman - Do Right Man
+
+Preview: https://p.scdn.co/mp3-preview/cf3ad683a07a4514d3f30f8122079b1ab5014eb9?cid=f68edaee890c45dcbd1482195f017817
+
+Album: I Never Loved A Man The Way I Love You
+
+----------
+
+Artist(s): Austin Moon
+
+Song: The Way That You Do
+
+Preview: null
+
+Album: Austin & Ally
+
+----------
+
+Artist(s): The Temptations
+
+Song: The Way You Do The Things You Do
+
+Preview: null
+
+Album: Motown: The Complete No. 1's
+
+----------
+
+Artist(s): Jerry Garcia Band
+
+Song: The Way You Do The Things You Do - Live
+
+Preview: https://p.scdn.co/mp3-preview/f92810199ba754c468b37aae066c444099183c34?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Jerry Garcia Band
+
+----------
+
+Artist(s): Santana
+
+Song: Do You Like the Way (feat. Lauryn Hill & Cee-Lo)
+
+Preview: https://p.scdn.co/mp3-preview/cbb5ddf29996f9ec4d0fa714ecd0b7320ab53b07?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Supernatural (Remastered)
+
+----------
+
+Artist(s): Kreaping Grease
+
+Song: The Way You Do the Thing You Do
+
+Preview: https://p.scdn.co/mp3-preview/679002eae538139747bf4c0b20d5a7a3d83eca05?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Foundationless
+
+----------
+
+Artist(s): Roy Ayers
+
+Song: I Like the Way You Do It to Me
+
+Preview: https://p.scdn.co/mp3-preview/c3170c707d72eca5fc9b38dadc587c6863ece64a?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Virgin Ubiquity II
+
+----------
+
+Artist(s): Paul Brandt
+
+Song: The Way You Say You Do
+
+Preview: https://p.scdn.co/mp3-preview/9f69cff14475ed988c8c07e3a4a6cdd944ea3ad5?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Journey BNA: Vol. 2 - EP
+
+----------
+
+Artist(s): Dionne Warwick
+
+Song: Do You Know the Way to San Jose
+
+Preview: https://p.scdn.co/mp3-preview/9424791a9624b734205645765b22a68efa0a8062?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Valley Of The Dolls
+
+----------
+
+Artist(s): Dionne Warwick
+
+Song: Do You Know the Way to San Jose
+
+Preview: https://p.scdn.co/mp3-preview/3a7d35abb17a34132a233457a4a25a97d41f7d5e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Dionne Warwick Collection: Her All-Time Greatest Hits
+
+----------
+
+Artist(s): DOPE LEMON
+
+Song: The Way You Do
+
+Preview: https://p.scdn.co/mp3-preview/69fb4548853a609072bc3e0b68b989b16df98ba2?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Honey Bones
+
+----------
+
+Artist(s): Moose Blood
+
+Song: You Left In The Worst Way
+
+Preview: https://p.scdn.co/mp3-preview/b96d00c90be1871d484f6406f68bbf35a6da2e98?cid=f68edaee890c45dcbd1482195f017817
+
+Album: I Don't Think I Can Do This Anymore
+
+----------
+
+Artist(s): Chet Baker
+
+Song: Do It the Hard Way
+
+Preview: null
+
+Album: Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)
+
+----------
+
+Artist(s): UB40
+
+Song: The Way You Do The Things You Do
+
+Preview: null
+
+Album: Greatest Hits
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: the croods
+
+Title: The Croods
+
+Release Year: 2013
+
+Ratings: Internet Movie Database: 7.2/10, Rotten Tomatoes: 72%, Metacritic: 55/100, 
+
+Country: USA
+
+Language: English
+
+Plot: After their cave is destroyed, a caveman family must trek through an unfamiliar fantastical world with the help of an inventive boy.
+
+Actors: Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: godfather
+
+Title: Godfather
+
+Release Year: 1991
+
+Ratings: Internet Movie Database: 8.5/10, 
+
+Country: India
+
+Language: Malayalam
+
+Plot: Two youngsters from rival clans fall in love.
+
+Actors: N.N. Pillai, Mukesh, Kanaka, Philomina
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: CHVRCHES
+
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: hound dog
+
+
+Artist(s): Elvis Presley
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/f683997c027a50649aa3b6c627cd67bd1a9364f5?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Elvis' Golden Records
+
+----------
+
+Artist(s): Elvis Presley
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/00b66adaec3359e10e5a362bdd7bbf58d09ef2cb?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Elvis 30 #1 Hits
+
+----------
+
+Artist(s): Big Mama Thornton
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/a561f232e125a1fe5154d26be7be255a3b266d27?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Ball And Chain
+
+----------
+
+Artist(s): Sha Na Na
+
+Song: Hound Dog
+
+Preview: null
+
+Album: Grease
+
+----------
+
+Artist(s): Dee Dee Bridgewater
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/a6df6bd7c622e2fcaccde1a03bc9f55e9eed3f90?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Memphis ...Yes, I'm Ready
+
+----------
+
+Artist(s): Marc Shaiman
+
+Song: Hound Dog - Big Mama Thornton
+
+Preview: https://p.scdn.co/mp3-preview/0b8c7246f89a4d702d3dd10776f301fb92d7638f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: "A Few Good Men" Soundtrack
+
+----------
+
+Artist(s): Sonny Landreth
+
+Song: Taylor's Rock
+
+Preview: https://p.scdn.co/mp3-preview/615f335fa00626251a0e98b509133d39df40c54f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Hound Dog Taylor: A Tribute
+
+----------
+
+Artist(s): Elvis Presley
+
+Song: Hound Dog - Remastered
+
+Preview: https://p.scdn.co/mp3-preview/59a0009f6514a3234960d6e531a52037e9293cdc?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Essential Elvis Presley
+
+----------
+
+Artist(s): Hound Dog Taylor
+
+Song: Give Me Back My Wig
+
+Preview: https://p.scdn.co/mp3-preview/754eb984425e1da405c1eb884e69d7c908f87c00?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Hound Dog Taylor & The Houserockers
+
+----------
+
+Artist(s): Elvis Presley
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/e5b8f2224218987e8e18ca5d7798e41dc81dfd66?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Elvis Presley: The Searcher (The Original Soundtrack) [Deluxe]
+
+----------
+
+Artist(s): Big Mama Thornton
+
+Song: Hound Dog - Single Version
+
+Preview: null
+
+Album: Hound Dog / The Peacock Recordings
+
+----------
+
+Artist(s): Cheyenne Jackson
+
+Song: Teddy Bear / Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/741f3f0b90e11a0a711c7a719becf65f89fdd98e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: All Shook Up
+
+----------
+
+Artist(s): Elvis Presley
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/4259dcc45d8bb4a4b7f60542c8b73f78bfee25e1?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Forrest Gump - The Soundtrack
+
+----------
+
+Artist(s): Hound Dog Taylor
+
+Song: Ain't Got Nobody
+
+Preview: https://p.scdn.co/mp3-preview/94fdda0b04bf9f8a83daaae32f88234f4aa3e50e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Genuine Houserocking Music
+
+----------
+
+Artist(s): Sha Na Na
+
+Song: Hound Dog - From “Grease” Soundtrack
+
+Preview: null
+
+Album: Grease (Deluxe Edition)
+
+----------
+
+Artist(s): Rockabye Baby!
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/34288a6c5c3054c98177e44b694c10faa3716629?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Lullaby Renditions of Elvis Presley
+
+----------
+
+Artist(s): James Taylor
+
+Song: Hound Dog
+
+Preview: null
+
+Album: Covers (【完全版】)
+
+----------
+
+Artist(s): Scatman Crothers
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/0492d10805fb8051d5aaff9ed6496b16b7409461?cid=f68edaee890c45dcbd1482195f017817
+
+Album: I Want to Rock'n'Roll
+
+----------
+
+Artist(s): Eric Clapton
+
+Song: Hound Dog
+
+Preview: https://p.scdn.co/mp3-preview/f7491e8bab7ec2f74043c336ef1831d563b45c63?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Journeyman
+
+----------
+
+Artist(s): Hound Dog Taylor
+
+Song: Let's Get Funky
+
+Preview: https://p.scdn.co/mp3-preview/a04508cf4886403cf9a7058f591a7787db69e7dc?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Beware of the Dog!
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: ralph
+
+
+Artist(s): Imagine Dragons
+
+Song: Zero - From the Original Motion Picture "Ralph Breaks The Internet"
+
+Preview: null
+
+Album: Origins (Deluxe)
+
+----------
+
+Artist(s): Imagine Dragons
+
+Song: Zero - From the Original Motion Picture "Ralph Breaks The Internet"
+
+Preview: null
+
+Album: Zero (From the Original Motion Picture "Ralph Breaks The Internet")
+
+----------
+
+Artist(s): Matoma
+
+Song: Old Thing Back (feat. Ja Rule and Ralph Tresvant)
+
+Preview: https://p.scdn.co/mp3-preview/5ccc16c87a984758a4c0db58ef82c739f24929eb?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Old Thing Back (feat. Ja Rule and Ralph Tresvant)
+
+----------
+
+Artist(s): Owl City
+
+Song: When Can I See You Again? - From "Wreck-It Ralph"/Soundtrack Version
+
+Preview: null
+
+Album: Wreck-It Ralph
+
+----------
+
+Artist(s): Ralph Tresvant
+
+Song: Sensitivity
+
+Preview: null
+
+Album: Ralph Tresvant
+
+----------
+
+Artist(s): Julia Michaels
+
+Song: In This Place
+
+Preview: null
+
+Album: Ralph Breaks the Internet (Original Motion Picture Soundtrack)
+
+----------
+
+Artist(s): Ralph
+
+Song: Weather
+
+Preview: https://p.scdn.co/mp3-preview/256e81f63e4254af115f7d2ef9fcd7b5f37f5286?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Weather
+
+----------
+
+Artist(s): Ralph Felix
+
+Song: The Heat (I Wanna Dance With Somebody)
+
+Preview: https://p.scdn.co/mp3-preview/20780b85464e24844a13b4d0d391bd12603d9716?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Heat (I Wanna Dance With Somebody)
+
+----------
+
+Artist(s): Ralph Castelli
+
+Song: Good Morning
+
+Preview: https://p.scdn.co/mp3-preview/e8afd08ffbc553e16b0f032a574f85f328903dc3?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Ralph Castelli
+
+----------
+
+Artist(s): Sarah Silverman
+
+Song: A Place Called Slaughter Race
+
+Preview: null
+
+Album: Ralph Breaks the Internet (Original Motion Picture Soundtrack)
+
+----------
+
+Artist(s): Henry Jackman
+
+Song: Replicate-It-Ralph
+
+Preview: null
+
+Album: Wifi Ralph (Banda Sonora Original)
+
+----------
+
+Artist(s): Ralph Vaughan Williams
+
+Song: The Lark Ascending
+
+Preview: https://p.scdn.co/mp3-preview/ec96df58162e040f8ee840288eb4bdfea43f6a39?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Lark Ascending
+
+----------
+
+Artist(s): Ralph Fiennes
+
+Song: The Plagues - The Prince Of Egypt/Soundtrack Version
+
+Preview: null
+
+Album: The Prince of Egypt
+
+----------
+
+Artist(s): Kid Travis
+
+Song: I Don't Even Speak Spanish Lol
+
+Preview: https://p.scdn.co/mp3-preview/6ed2e768afa8f06b04fae8a11ebe5f811d884df8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: I Don't Even Speak Spanish Lol
+
+----------
+
+Artist(s): Henry Jackman
+
+Song: Wreck-It Ralph - From "Wreck-It Ralph"/Score
+
+Preview: null
+
+Album: Wreck-It Ralph
+
+----------
+
+Artist(s): AKB48
+
+Song: Sugar Rush - From "Wreck-It Ralph"/Soundtrack Version
+
+Preview: null
+
+Album: Wreck-It Ralph
+
+----------
+
+Artist(s): Ralph Tresvant
+
+Song: Do What I Gotta Do
+
+Preview: null
+
+Album: Ralph Tresvant
+
+----------
+
+Artist(s): Patrick Carney
+
+Song: BoJack's Theme (Full Length)
+
+Preview: https://p.scdn.co/mp3-preview/6d31b8b2c02599af75e0e6daccb0798f4dc93c5d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: BoJack Horseman (Music from the Netflix Original Series)
+
+----------
+
+Artist(s): Ralph Castelli
+
+Song: I Hate Swimming
+
+Preview: https://p.scdn.co/mp3-preview/888bf216aaa5b922a205cfb21c35a288c1ac546f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Ralph Castelli
+
+----------
+
+Artist(s): Ralph Vaughan Williams
+
+Song: Vaughan Williams: The Lark Ascending, for Violin and Orchestra (Excerpt, Opening)
+
+Preview: https://p.scdn.co/mp3-preview/175bbf948cc312bc3573c68c950b4b641e813e3f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Relax
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: zelda
+
+
+Artist(s): Wesley Sprayue
+
+Song: Zelda's Lullaby
+
+Preview: https://p.scdn.co/mp3-preview/279be5b1ad7820d050cd0e9058892eefb73bb555?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda: Ocarina of Time - Piano
+
+----------
+
+Artist(s): Video Games Live
+
+Song: Zelda 25th Anniversary Overture
+
+Preview: https://p.scdn.co/mp3-preview/bb6921cb00ae94cff9c1f506f84e7cd1ece4a952?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Level 3
+
+----------
+
+Artist(s): Tina Guo
+
+Song: The Legend of Zelda
+
+Preview: https://p.scdn.co/mp3-preview/24a6954fad7445234c9ab7160b620b062046475d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Game On!
+
+----------
+
+Artist(s): Mikel
+
+Song: Fairy Fountain
+
+Preview: https://p.scdn.co/mp3-preview/201014e4c0fc1a326bd3589c39c8beaf5d53ec01?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Mikel
+
+Song: Legend of Zelda
+
+Preview: https://p.scdn.co/mp3-preview/b96be9f8d92f67323dce18845552c73f1ec1699b?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Camille and Kennerly
+
+Song: Ballad of the Goddess (From the Legend of Zelda)
+
+Preview: https://p.scdn.co/mp3-preview/1a1c9cc1e2acb493e85f7ece629f4b1f0de10da6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Harp Fantasy (Remastered)
+
+----------
+
+Artist(s): Zedd
+
+Song: The Legend of Zelda - Club Mix
+
+Preview: https://p.scdn.co/mp3-preview/32a2bd620798442c6898bd2cbbfbbc937e80df9b?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Legend Of Zelda
+
+----------
+
+Artist(s): Mikel
+
+Song: Song of Storms
+
+Preview: https://p.scdn.co/mp3-preview/89ba25061b5b84b06b9bae19a66d199f8f00ebda?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Koji Kondo
+
+Song: Legend of Zelda: Suite
+
+Preview: https://p.scdn.co/mp3-preview/4fc0a76108f54c3cd518156496610f5456b43828?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Greatest Video Game Music
+
+----------
+
+Artist(s): Mikel
+
+Song: Lost Woods
+
+Preview: https://p.scdn.co/mp3-preview/f89ae5f150d991b5d51401e71c90990c179ad867?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Mikel
+
+Song: Dark World
+
+Preview: https://p.scdn.co/mp3-preview/4e0261817fffd350d38bb1bd5929e06e659aa441?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Ephixa
+
+Song: Wisdom (Zelda's Lullaby Link to the Future) [feat. Will & Tim] [From Legend of Zelda: Ocarina of Time]
+
+Preview: https://p.scdn.co/mp3-preview/950b4a8ed859bc3210b00e0caccc7a5abb91ecbc?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Wisdom (Zelda's Lullaby Link to the Future) [feat. Will & Tim] [From Legend of Zelda: Ocarina of Time]
+
+----------
+
+Artist(s): Mikel
+
+Song: Gerudo Valley
+
+Preview: https://p.scdn.co/mp3-preview/ba49ee3cedc9c19a113b4e8ff57c6e4796c85f23?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Taylor Davis
+
+Song: Zelda's Lullaby
+
+Preview: https://p.scdn.co/mp3-preview/05ddffd3bd29a4f318705265835c205ee9e5462e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Melodies of Hyrule: Music from "The Legend of Zelda"
+
+----------
+
+Artist(s): Laura Sullivan
+
+Song: Zelda's Lullaby
+
+Preview: https://p.scdn.co/mp3-preview/3ab0499de9d52bdc9d137a5b237820bf30247664?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda
+
+----------
+
+Artist(s): Mikel
+
+Song: Oath to Order
+
+Preview: https://p.scdn.co/mp3-preview/f7bea496d3feabf196c351add2fd99d4b532aec9?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+
+Artist(s): Smosh
+
+Song: The Legend of Zelda Rap
+
+Preview: https://p.scdn.co/mp3-preview/018895a9edc2f3628d730b25fab10c93e068f786?cid=f68edaee890c45dcbd1482195f017817
+
+Album: If Music Were Real
+
+----------
+
+Artist(s): Taylor Davis
+
+Song: Zelda Medley
+
+Preview: https://p.scdn.co/mp3-preview/1e9de213cfe531865ebcc1fb23018c2ae4ea4fd6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Gaming Fantasy
+
+----------
+
+Artist(s): Alexandre Desplat
+
+Song: Elisa And Zelda
+
+Preview: null
+
+Album: The Shape Of Water (Original Motion Picture Soundtrack)
+
+----------
+
+Artist(s): Mikel
+
+Song: Ocarina of Time
+
+Preview: https://p.scdn.co/mp3-preview/671ef44e925507a76aab082974ec27b0abf91fd9?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zelda & Chill
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: chvrches
+
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: chvrches
+
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: chvrches
+
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: fantastic beasts and where to find them
+
+Title: Fantastic Beasts and Where to Find Them
+
+Release Year: 2016
+
+Ratings: Internet Movie Database: 7.4/10, Rotten Tomatoes: 74%, Metacritic: 66/100, 
+
+Country: UK, USA
+
+Language: English, Khmer
+
+Plot: The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.
+
+Actors: Eddie Redmayne, Sam Redford, Scott Goldman, Tim Bentinck
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: Panic! at the disco
+
+
+Venue: KeyBank Center
+
+Location: Buffalo, United States
+
+Date: 01/10/2019
+
+----------
+
+Venue: Place Bell
+
+Location: Laval, Canada
+
+Date: 01/12/2019
+
+----------
+
+Venue: SNHU Arena
+
+Location: Manchester, United States
+
+Date: 01/13/2019
+
+----------
+
+Venue: Times Union Center
+
+Location: Albany, United States
+
+Date: 01/15/2019
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 01/16/2019
+
+----------
+
+Venue: Prudential Center
+
+Location: Newark, United States
+
+Date: 01/18/2019
+
+----------
+
+Venue: Dunkin' Donuts Center
+
+Location: Providence, United States
+
+Date: 01/19/2019
+
+----------
+
+Venue: Capital One Arena
+
+Location: Washington, United States
+
+Date: 01/20/2019
+
+----------
+
+Venue: Spectrum Center
+
+Location: Charlotte, United States
+
+Date: 01/22/2019
+
+----------
+
+Venue: John Paul Jones Arena
+
+Location: Charlottesville, United States
+
+Date: 01/23/2019
+
+----------
+
+Venue: Bridgestone Arena
+
+Location: Nashville, United States
+
+Date: 01/25/2019
+
+----------
+
+Venue: U.S. Bank Arena
+
+Location: Cincinnati, United States
+
+Date: 01/26/2019
+
+----------
+
+Venue: Fiserv Forum
+
+Location: Milwaukee, United States
+
+Date: 01/27/2019
+
+----------
+
+Venue: The Van Andel Arena
+
+Location: Grand Rapids, United States
+
+Date: 01/29/2019
+
+----------
+
+Venue: Quicken Loans Arena
+
+Location: Cleveland, United States
+
+Date: 01/30/2019
+
+----------
+
+Venue: CenturyLink Center
+
+Location: Omaha, United States
+
+Date: 02/01/2019
+
+----------
+
+Venue: Sprint Center
+
+Location: Kansas City, United States
+
+Date: 02/02/2019
+
+----------
+
+Venue: Allstate Arena
+
+Location: Rosemont, United States
+
+Date: 02/04/2019
+
+----------
+
+Venue: Enterprise Center
+
+Location: Saint Louis, United States
+
+Date: 02/05/2019
+
+----------
+
+Venue: FedExForum
+
+Location: Memphis, United States
+
+Date: 02/06/2019
+
+----------
+
+Venue: Frank Erwin Center
+
+Location: Austin, United States
+
+Date: 02/08/2019
+
+----------
+
+Venue: Smoothie King Center
+
+Location: New Orleans, United States
+
+Date: 02/09/2019
+
+----------
+
+Venue: Tingley Coliseum
+
+Location: Albuquerque, United States
+
+Date: 02/12/2019
+
+----------
+
+Venue: Honda Center
+
+Location: Anaheim, United States
+
+Date: 02/14/2019
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 02/15/2019
+
+----------
+
+Venue: Valley View Casino Center
+
+Location: San Diego, United States
+
+Date: 02/16/2019
+
+----------
+
+Venue: ORACLE Arena
+
+Location: Oakland, United States
+
+Date: 02/19/2019
+
+----------
+
+Venue: Golden1 Center
+
+Location: Sacramento, United States
+
+Date: 02/20/2019
+
+----------
+
+Venue: Stadthalle
+
+Location: Offenbach, Germany
+
+Date: 03/14/2019
+
+----------
+
+Venue: Columbiahalle 
+
+Location: Berlin, Germany
+
+Date: 03/15/2019
+
+----------
+
+Venue: Mitsubishi Electric Halle
+
+Location: Düsseldorf, Germany
+
+Date: 03/16/2019
+
+----------
+
+Venue: AFAS Live
+
+Location: Amsterdam, Netherlands
+
+Date: 03/18/2019
+
+----------
+
+Venue: Zenith
+
+Location: Paris, France
+
+Date: 03/19/2019
+
+----------
+
+Venue: Lotto Arena
+
+Location: Antwerp, Belgium
+
+Date: 03/21/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 03/24/2019
+
+----------
+
+Venue: Motorpoint Arena
+
+Location: Cardiff, United Kingdom
+
+Date: 03/25/2019
+
+----------
+
+Venue: Arena Birmingham
+
+Location: Birmingham, United Kingdom
+
+Date: 03/26/2019
+
+----------
+
+Venue: The O2
+
+Location: London, United Kingdom
+
+Date: 03/28/2019
+
+----------
+
+Venue: The O2
+
+Location: London, United Kingdom
+
+Date: 03/29/2019
+
+----------
+
+Venue: Manchester Arena
+
+Location: Manchester, United Kingdom
+
+Date: 03/30/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: harry potter
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+
+Release Year: 2011
+
+Ratings: Internet Movie Database: 8.1/10, Rotten Tomatoes: 96%, Metacritic: 87/100, 
+
+Country: USA, UK
+
+Language: English
+
+Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: The haves and have naughts
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: barbie girl
+
+
+Artist(s): Aqua
+
+Song: Barbie Girl
+
+Preview: null
+
+Album: Aquarium
+
+----------
+
+Artist(s): Ava Max
+
+Song: Not Your Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/234e17c9b4a693466e63b22c148ce100e7236437?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Not Your Barbie Girl
+
+----------
+
+Artist(s): Tyler and Mark
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/51f8a4ef2478d4f7411ec95dd57f22c15eebaf35?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Beautiful Dreams
+
+----------
+
+Artist(s): Aqua
+
+Song: Barbie Girl
+
+Preview: null
+
+Album: Barbie Girl
+
+----------
+
+Artist(s): Lady Aqua
+
+Song: Barbie Girl - I'm a Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/1222e77c943a1b9e407d46e58bda13882b11d400?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Hello (I Want U Back With Ur Love)
+
+----------
+
+Artist(s): Scott Bradlee's Postmodern Jukebox
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/da65c7e082aa16f7fe7b3cce83fdf69c7eb3ce84?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Emoji Antique
+
+----------
+
+Artist(s): Tanaë
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/557f7a65942872ec1db05b13992da11ff9746337?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl
+
+----------
+
+Artist(s): Jaspreet Jasz
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/cadcfff8bab078201529c8470ee71f47f8dd940d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Mirchi (Original Motion Picture Soundtrack)
+
+----------
+
+Artist(s): Kill J
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/eaa838266b0fe299bbca87114f67779a84970ea1?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl
+
+----------
+
+Artist(s): Factory B
+
+Song: I'm a Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/4d0dda11223278b5d8d8cee77ee475640caf85cd?cid=f68edaee890c45dcbd1482195f017817
+
+Album: 80s 90s Music Dance Songs: Las Mejores Canciones, Éxitos Disco y Música de los 90 y 80 para Bailar
+
+----------
+
+Artist(s): Aqua
+
+Song: Barbie Girl
+
+Preview: null
+
+Album: 90s Mixtape
+
+----------
+
+Artist(s): Suchitra
+
+Song: Sir Osthara - From "Businessman"
+
+Preview: https://p.scdn.co/mp3-preview/fbebcca55e21c490a9090ce74dd2ef83442c3c6f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl Suchitra Telugu Hits
+
+----------
+
+Artist(s): Barbie Girl
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/b700c828d6baa113a19625c8388322ce4506f627?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Disco Hits of The '70s, '80s & '90s
+
+----------
+
+Artist(s): Rob Mayth
+
+Song: Barbie Girl - Single Edit
+
+Preview: https://p.scdn.co/mp3-preview/b543a9fd02e127b83c3b7a8a14d7ccffe956f574?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl
+
+----------
+
+Artist(s): Sonya
+
+Song: Wrecking Ball
+
+Preview: https://p.scdn.co/mp3-preview/df6b8c95faa2d486dce458ff1e673a849f2a4d07?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl
+
+----------
+
+Artist(s): Ben
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/279f1c227194fb75d68b22d0f9c101f622b5751f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Soul Wash
+
+----------
+
+Artist(s): Ranjith
+
+Song: Dole Dole - From "Pokiri"
+
+Preview: https://p.scdn.co/mp3-preview/9ee232eef5f835c7664fca92ceeb72f7d548dbce?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl Suchitra Telugu Hits
+
+----------
+
+Artist(s): Cure-a-Phobia
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/5333daaeefdf4f25a89271881771c81ff4353f02?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl
+
+----------
+
+Artist(s): Simbu
+
+Song: Diamond Girl - From "Baadshah"
+
+Preview: https://p.scdn.co/mp3-preview/aa2c749a13aac9d5db5fe77f959919532c9504e8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl Suchitra Telugu Hits
+
+----------
+
+Artist(s): Lady Aqua
+
+Song: Barbie Girl
+
+Preview: https://p.scdn.co/mp3-preview/1222e77c943a1b9e407d46e58bda13882b11d400?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Barbie Girl
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: the lion king
+
+Title: The Lion King
+
+Release Year: 1994
+
+Ratings: Internet Movie Database: 8.5/10, Rotten Tomatoes: 93%, Metacritic: 83/100, 
+
+Country: USA
+
+Language: English, Swahili, Xhosa, Zulu
+
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: beauty and the beast
+
+Title: Beauty and the Beast
+
+Release Year: 1991
+
+Ratings: Internet Movie Database: 8.0/10, Rotten Tomatoes: 94%, Metacritic: 95/100, 
+
+Country: USA
+
+Language: English, French
+
+Plot: A selfish prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.
+
+Actors: Robby Benson, Jesse Corti, Rex Everhart, Angela Lansbury
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: spotify-this-song
+Input: "In the Dead of Night"
+
+
+Artist(s): Savage Ga$p
+
+Song: Pumpkins scream in the dead of night
+
+Preview: https://p.scdn.co/mp3-preview/195a0689f598ef154a14c7977ed960b3a0f9d537?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Pumpkins scream in the dead of night
+
+----------
+
+Artist(s): Vinyl Theatre
+
+Song: Shaking In The Dead Of Night
+
+Preview: https://p.scdn.co/mp3-preview/9193d08db07233d9db1bee46dee3383d7bd61b11?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Electrogram
+
+----------
+
+Artist(s): U.K.
+
+Song: In The Dead Of Night
+
+Preview: null
+
+Album: U.K.
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Cut Me Down
+
+Preview: https://p.scdn.co/mp3-preview/6582506817fa73496e067236fe58c81bcf26cc7e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Little Comets
+
+Song: Waiting In The Shadows In The Dead Of Night
+
+Preview: https://p.scdn.co/mp3-preview/cf5395576fa2e2ce058d08697e1b7809680463c1?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Life Is Elsewhere
+
+----------
+
+Artist(s): Hardline
+
+Song: In the Dead of the Night
+
+Preview: https://p.scdn.co/mp3-preview/7e42e0e2c6fa7c44a64ba522c4814db5c553942c?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Human Nature
+
+----------
+
+Artist(s): Little Comets
+
+Song: Waiting in the Shadows in the Dead of Night - Piano
+
+Preview: https://p.scdn.co/mp3-preview/6abef5633d3e99ce7f423684a4f37e38ba9ad773?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Life Is Elsewhere
+
+----------
+
+Artist(s): The Dahmers
+
+Song: To The Night
+
+Preview: https://p.scdn.co/mp3-preview/e70d053a1137201ca045c4ea0c0290591eb2383d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Rat Boy
+
+Preview: https://p.scdn.co/mp3-preview/c6f229397d0a83bd00735e2cae7c6f96cb3e425b?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: It's Too Late
+
+Preview: https://p.scdn.co/mp3-preview/97ef9471e6f1bb7b723a61cf92ec70c3ae59c063?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: I Wake Up Dead
+
+Preview: https://p.scdn.co/mp3-preview/098a5c18c0f9b8ccfcd7bbe4e2f5927c44ff11cb?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Beyond The Grave
+
+Preview: https://p.scdn.co/mp3-preview/ad032ed8a8c7e8a64e768a78d9dbeac2f0d911fc?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Bloodbound
+
+Song: In the Dead of Night
+
+Preview: https://p.scdn.co/mp3-preview/956fe5ed20e38bd6f838e68198fc4b50b7147cff?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Unholy Cross
+
+----------
+
+Artist(s): The Dahmers
+
+Song: The Night Has Just Begun
+
+Preview: https://p.scdn.co/mp3-preview/b001fee81881de3baed11a352e153212d78eb6b4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Deep Red
+
+Preview: https://p.scdn.co/mp3-preview/73be776120151c02d588d90701ff97b42e7b0e58?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Cold Skin
+
+Preview: https://p.scdn.co/mp3-preview/8d5d91ab51dacba4d1dabcf093a9cc572abfeb28?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Bloodsucker
+
+Preview: https://p.scdn.co/mp3-preview/e6ef74063d98b6fd526055279dbee479791e45e8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Nightcrawler
+
+Preview: https://p.scdn.co/mp3-preview/9dae867bb9839f80d35c2fd875a5847ea9eefe2f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Dusk
+
+Preview: https://p.scdn.co/mp3-preview/fbcd51b84bdd94a6fa5158866b5c88d7e63500a9?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Yngwie Malmsteen
+
+Song: In the Dead of Night
+
+Preview: https://p.scdn.co/mp3-preview/8193a6ad7a0067d34a3f70fbf2906341ea4513c6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Inspiration
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: spotify-this-song
+Input: "In the Dead of Night"
+
+
+Artist(s): Savage Ga$p
+
+Song: Pumpkins scream in the dead of night
+
+Preview: https://p.scdn.co/mp3-preview/195a0689f598ef154a14c7977ed960b3a0f9d537?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Pumpkins scream in the dead of night
+
+----------
+
+Artist(s): Vinyl Theatre
+
+Song: Shaking In The Dead Of Night
+
+Preview: https://p.scdn.co/mp3-preview/9193d08db07233d9db1bee46dee3383d7bd61b11?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Electrogram
+
+----------
+
+Artist(s): U.K.
+
+Song: In The Dead Of Night
+
+Preview: null
+
+Album: U.K.
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Cut Me Down
+
+Preview: https://p.scdn.co/mp3-preview/6582506817fa73496e067236fe58c81bcf26cc7e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Little Comets
+
+Song: Waiting In The Shadows In The Dead Of Night
+
+Preview: https://p.scdn.co/mp3-preview/cf5395576fa2e2ce058d08697e1b7809680463c1?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Life Is Elsewhere
+
+----------
+
+Artist(s): Hardline
+
+Song: In the Dead of the Night
+
+Preview: https://p.scdn.co/mp3-preview/7e42e0e2c6fa7c44a64ba522c4814db5c553942c?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Human Nature
+
+----------
+
+Artist(s): Little Comets
+
+Song: Waiting in the Shadows in the Dead of Night - Piano
+
+Preview: https://p.scdn.co/mp3-preview/6abef5633d3e99ce7f423684a4f37e38ba9ad773?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Life Is Elsewhere
+
+----------
+
+Artist(s): The Dahmers
+
+Song: To The Night
+
+Preview: https://p.scdn.co/mp3-preview/e70d053a1137201ca045c4ea0c0290591eb2383d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Rat Boy
+
+Preview: https://p.scdn.co/mp3-preview/c6f229397d0a83bd00735e2cae7c6f96cb3e425b?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: It's Too Late
+
+Preview: https://p.scdn.co/mp3-preview/97ef9471e6f1bb7b723a61cf92ec70c3ae59c063?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: I Wake Up Dead
+
+Preview: https://p.scdn.co/mp3-preview/098a5c18c0f9b8ccfcd7bbe4e2f5927c44ff11cb?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Beyond The Grave
+
+Preview: https://p.scdn.co/mp3-preview/ad032ed8a8c7e8a64e768a78d9dbeac2f0d911fc?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Bloodbound
+
+Song: In the Dead of Night
+
+Preview: https://p.scdn.co/mp3-preview/956fe5ed20e38bd6f838e68198fc4b50b7147cff?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Unholy Cross
+
+----------
+
+Artist(s): The Dahmers
+
+Song: The Night Has Just Begun
+
+Preview: https://p.scdn.co/mp3-preview/b001fee81881de3baed11a352e153212d78eb6b4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Deep Red
+
+Preview: https://p.scdn.co/mp3-preview/73be776120151c02d588d90701ff97b42e7b0e58?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Cold Skin
+
+Preview: https://p.scdn.co/mp3-preview/8d5d91ab51dacba4d1dabcf093a9cc572abfeb28?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Bloodsucker
+
+Preview: https://p.scdn.co/mp3-preview/e6ef74063d98b6fd526055279dbee479791e45e8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Nightcrawler
+
+Preview: https://p.scdn.co/mp3-preview/9dae867bb9839f80d35c2fd875a5847ea9eefe2f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Dusk
+
+Preview: https://p.scdn.co/mp3-preview/fbcd51b84bdd94a6fa5158866b5c88d7e63500a9?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Yngwie Malmsteen
+
+Song: In the Dead of Night
+
+Preview: https://p.scdn.co/mp3-preview/8193a6ad7a0067d34a3f70fbf2906341ea4513c6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Inspiration
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: godfather
+
+Title: Godfather
+
+Release Year: 1991
+
+Ratings: Internet Movie Database: 8.5/10, 
+
+Country: India
+
+Language: Malayalam
+
+Plot: Two youngsters from rival clans fall in love.
+
+Actors: N.N. Pillai, Mukesh, Kanaka, Philomina
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: godfather
+
+Title: Godfather
+
+Release Year: 1991
+
+Ratings: Internet Movie Database: 8.5/10, 
+
+Country: India
+
+Language: Malayalam
+
+Plot: Two youngsters from rival clans fall in love.
+
+Actors: N.N. Pillai, Mukesh, Kanaka, Philomina
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: godfather
+
+Title: Godfather
+
+Release Year: 1991
+
+Ratings: Internet Movie Database: 8.5/10, 
+
+Country: India
+
+Language: Malayalam
+
+Plot: Two youngsters from rival clans fall in love.
+
+Actors: N.N. Pillai, Mukesh, Kanaka, Philomina
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: taylor swift
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: in the dead of the night
+
+
+Artist(s): Savage Ga$p
+
+Song: Pumpkins scream in the dead of night
+
+Preview: https://p.scdn.co/mp3-preview/195a0689f598ef154a14c7977ed960b3a0f9d537?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Pumpkins scream in the dead of night
+
+----------
+
+Artist(s): Vinyl Theatre
+
+Song: Shaking In The Dead Of Night
+
+Preview: https://p.scdn.co/mp3-preview/9193d08db07233d9db1bee46dee3383d7bd61b11?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Electrogram
+
+----------
+
+Artist(s): U.K.
+
+Song: In The Dead Of Night
+
+Preview: null
+
+Album: U.K.
+
+----------
+
+Artist(s): Clint Mansell
+
+Song: San Junipero (Saturday Night in the City of the Dead)
+
+Preview: https://p.scdn.co/mp3-preview/4e5436ba42b456ba580706d0c7d0e4ff190aa3d4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Black Mirror: San Junipero (Original Score)
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Cut Me Down
+
+Preview: https://p.scdn.co/mp3-preview/6582506817fa73496e067236fe58c81bcf26cc7e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Eminence Symphony Orchestra
+
+Song: World Of The Dead (Princess Mononoke)
+
+Preview: https://p.scdn.co/mp3-preview/1148d3d7a9f7d50e123e90cb6faa60297b2a7488?cid=f68edaee890c45dcbd1482195f017817
+
+Album: A Night in Fantasia 2004: Studio Ghibli Edition
+
+----------
+
+Artist(s): Little Comets
+
+Song: Waiting In The Shadows In The Dead Of Night
+
+Preview: https://p.scdn.co/mp3-preview/cf5395576fa2e2ce058d08697e1b7809680463c1?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Life Is Elsewhere
+
+----------
+
+Artist(s): Hardline
+
+Song: In the Dead of the Night
+
+Preview: https://p.scdn.co/mp3-preview/7e42e0e2c6fa7c44a64ba522c4814db5c553942c?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Human Nature
+
+----------
+
+Artist(s): Tribulation
+
+Song: In the Dreams of the Dead
+
+Preview: https://p.scdn.co/mp3-preview/d2284075427f781b99ed3c0d4e28ec1178f4f2f0?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Children of the Night
+
+----------
+
+Artist(s): Ultravox
+
+Song: Saturday Night In The City Of The Dead
+
+Preview: null
+
+Album: Ultravox!
+
+----------
+
+Artist(s): Little Comets
+
+Song: Waiting in the Shadows in the Dead of Night - Piano
+
+Preview: https://p.scdn.co/mp3-preview/6abef5633d3e99ce7f423684a4f37e38ba9ad773?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Life Is Elsewhere
+
+----------
+
+Artist(s): Depeche Mode
+
+Song: The Dead Of Night - Live in Paris, October 2001
+
+Preview: https://p.scdn.co/mp3-preview/9dde0346d7cc7533d94f33609634bcd7e5a77185?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Exciter (2007 Remastered Edition)
+
+----------
+
+Artist(s): The Dahmers
+
+Song: To The Night
+
+Preview: https://p.scdn.co/mp3-preview/e70d053a1137201ca045c4ea0c0290591eb2383d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: I Wake Up Dead
+
+Preview: https://p.scdn.co/mp3-preview/098a5c18c0f9b8ccfcd7bbe4e2f5927c44ff11cb?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Beyond The Grave
+
+Preview: https://p.scdn.co/mp3-preview/ad032ed8a8c7e8a64e768a78d9dbeac2f0d911fc?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: It's Too Late
+
+Preview: https://p.scdn.co/mp3-preview/97ef9471e6f1bb7b723a61cf92ec70c3ae59c063?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Rat Boy
+
+Preview: https://p.scdn.co/mp3-preview/c6f229397d0a83bd00735e2cae7c6f96cb3e425b?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): The Dahmers
+
+Song: The Night Has Just Begun
+
+Preview: https://p.scdn.co/mp3-preview/b001fee81881de3baed11a352e153212d78eb6b4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+
+Artist(s): Bloodbound
+
+Song: In the Dead of Night
+
+Preview: https://p.scdn.co/mp3-preview/956fe5ed20e38bd6f838e68198fc4b50b7147cff?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Unholy Cross
+
+----------
+
+Artist(s): The Dahmers
+
+Song: Deep Red
+
+Preview: https://p.scdn.co/mp3-preview/73be776120151c02d588d90701ff97b42e7b0e58?cid=f68edaee890c45dcbd1482195f017817
+
+Album: In The Dead of Night
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: reebok or nike
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: i dont care
+
+
+Artist(s): Fall Out Boy
+
+Song: I Don't Care - Single Version
+
+Preview: null
+
+Album: Folie à Deux
+
+----------
+
+Artist(s): Ariana Grande
+
+Song: I Don't Care
+
+Preview: null
+
+Album: Dangerous Woman
+
+----------
+
+Artist(s): Michael Jackson
+
+Song: They Don't Care About Us
+
+Preview: https://p.scdn.co/mp3-preview/b8ce84078aa19478da4283c37741e15d8858639c?cid=f68edaee890c45dcbd1482195f017817
+
+Album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+
+----------
+
+Artist(s): NAV
+
+Song: I Don't Care
+
+Preview: null
+
+Album: Perfect Timing
+
+----------
+
+Artist(s): Justin Moore
+
+Song: You Look Like I Need A Drink
+
+Preview: null
+
+Album: Kinda Don't Care
+
+----------
+
+Artist(s): Apocalyptica
+
+Song: I Don't Care (feat. Adam Gontier)
+
+Preview: https://p.scdn.co/mp3-preview/48b64f800f71a6a060ab58e65244f8017d03ddfa?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Worlds Collide
+
+----------
+
+Artist(s): MISSIO
+
+Song: I Don't Even Care About You
+
+Preview: https://p.scdn.co/mp3-preview/e64784354541031208ce1967332d28e3983ddc5f?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Loner
+
+----------
+
+Artist(s): Raheem DeVaughn
+
+Song: I Don't Care
+
+Preview: https://p.scdn.co/mp3-preview/aa545ab3637f69f462e4ab7a99a4a3ed36f5cbf9?cid=f68edaee890c45dcbd1482195f017817
+
+Album: The Love & War MasterPeace
+
+----------
+
+Artist(s): Phil Collins
+
+Song: I Don't Care Anymore - 2016 Remastered
+
+Preview: https://p.scdn.co/mp3-preview/15017dc0083d6a28d8f70354cb6fff8429de57f3?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Hello, I Must Be Going! (Deluxe Edition)
+
+----------
+
+Artist(s): Cody Johnson
+
+Song: I Don't Care About You
+
+Preview: https://p.scdn.co/mp3-preview/992a3c3d6c54a07753c94b3a57822a72e59f970e?cid=f68edaee890c45dcbd1482195f017817
+
+Album: A Different Day
+
+----------
+
+Artist(s): Devin Dawson
+
+Song: I Don't Care Who Sees
+
+Preview: https://p.scdn.co/mp3-preview/2590b7d2f775e1e96a0b3fe5da997b3b7582e231?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Dark Horse
+
+----------
+
+Artist(s): Apocalyptica
+
+Song: I Don't Care (feat. Adam Gontier)
+
+Preview: https://p.scdn.co/mp3-preview/53c9a7f3178883317e9191c9ba51e9e54d6c9f52?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Worlds Collide
+
+----------
+
+Artist(s): LANY
+
+Song: I Don't Care
+
+Preview: https://p.scdn.co/mp3-preview/91ed79c5995a56c201ab82511af64e81ff2fdcd6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: I Loved You.
+
+----------
+
+Artist(s): HELLYEAH
+
+Song: I Don't Care Anymore
+
+Preview: https://p.scdn.co/mp3-preview/d7a5e84fbe0e17775afdd4b6e6b7f881158da148?cid=f68edaee890c45dcbd1482195f017817
+
+Album: UNDEN!ABLE
+
+----------
+
+Artist(s): Fall Out Boy
+
+Song: I Don't Care
+
+Preview: null
+
+Album: Believers Never Die - Greatest Hits
+
+----------
+
+Artist(s): Unlike Pluto
+
+Song: Now I Don't Care
+
+Preview: https://p.scdn.co/mp3-preview/83fdc96fb56b7b9947fb658677c4e54f3572fdc4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Bitter Paradise
+
+----------
+
+Artist(s): Pierce The Veil
+
+Song: I Don't Care If You're Contagious
+
+Preview: https://p.scdn.co/mp3-preview/d6067824d662972eee4a39437a061c3503f6a8db?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Selfish Machines (Reissue)
+
+----------
+
+Artist(s): Saint Asonia
+
+Song: I Don't Care Anymore
+
+Preview: https://p.scdn.co/mp3-preview/99e33b019092d6a78928fd34c8601e421af0ff0c?cid=f68edaee890c45dcbd1482195f017817
+
+Album: I Don't Care Anymore
+
+----------
+
+Artist(s): Lake Street Dive
+
+Song: I Don't Care About You
+
+Preview: https://p.scdn.co/mp3-preview/b295f4c2dbf8f3790d20e80fec758ee45af9b8c6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Side Pony
+
+----------
+
+Artist(s): Jeremy Passion
+
+Song: I Don't Care
+
+Preview: https://p.scdn.co/mp3-preview/324ae23f128d88a36ae9c030e4ba75978db8d567?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Pixelated
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: the midnight
+
+
+Venue: John Dee
+
+Location: Oslo, Norway
+
+Date: 02/22/2019
+
+----------
+
+Venue: Kägelbanan Södra Teatern
+
+Location: Norrmalm, Sweden
+
+Date: 02/23/2019
+
+----------
+
+Venue: Lille Vega
+
+Location: København, Denmark
+
+Date: 02/24/2019
+
+----------
+
+Venue: Festsaal Kreuzberg
+
+Location: Berlin, Germany
+
+Date: 02/26/2019
+
+----------
+
+Venue: Tivolivredenburg Pandora Hall
+
+Location: Utrecht, Netherlands
+
+Date: 02/27/2019
+
+----------
+
+Venue: Le Trabendo
+
+Location: Paris, France
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sala But 
+
+Location: Madrid, Spain
+
+Date: 03/02/2019
+
+----------
+
+Venue: The Depot
+
+Location: Leuven, Belgium
+
+Date: 03/03/2019
+
+----------
+
+Venue: Scala
+
+Location: London, United Kingdom
+
+Date: 03/05/2019
+
+----------
+
+Venue: Scala
+
+Location: London, United Kingdom
+
+Date: 03/06/2019
+
+----------
+
+Venue: Variety Playhouse
+
+Location: Atlanta, United States
+
+Date: 03/29/2019
+
+----------
+
+Venue: The Orange Peel
+
+Location: Asheville, United States
+
+Date: 03/30/2019
+
+----------
+
+Venue: Cat's Cradle
+
+Location: Carrboro, United States
+
+Date: 03/31/2019
+
+----------
+
+Venue: Baltimore Soundstage
+
+Location: Baltimore, United States
+
+Date: 04/02/2019
+
+----------
+
+Venue: Newport Music Hall
+
+Location: Columbus, United States
+
+Date: 04/03/2019
+
+----------
+
+Venue: El Club
+
+Location: Detroit, United States
+
+Date: 04/05/2019
+
+----------
+
+Venue: Headliners Music Hall
+
+Location: Louisville, United States
+
+Date: 04/06/2019
+
+----------
+
+Venue: Exit/In
+
+Location: Nashville, United States
+
+Date: 04/07/2019
+
+----------
+
+Venue: House of Blues New Orleans presented by Cricket Wireless
+
+Location: New Orleans, United States
+
+Date: 04/09/2019
+
+----------
+
+Venue: White Oak Music Hall
+
+Location: Houston, United States
+
+Date: 04/11/2019
+
+----------
+
+Venue: Trees
+
+Location: Dallas, United States
+
+Date: 04/12/2019
+
+----------
+
+Venue: Mohawk Austin
+
+Location: Austin, United States
+
+Date: 04/13/2019
+
+----------
+
+Venue: The Complex
+
+Location: Salt Lake City, United States
+
+Date: 04/26/2019
+
+----------
+
+Venue: Ogden Theatre
+
+Location: Denver, United States
+
+Date: 04/27/2019
+
+----------
+
+Venue: Meow Wolf
+
+Location: Santa Fe, United States
+
+Date: 04/30/2019
+
+----------
+
+Venue: The Van Buren
+
+Location: Phoenix, United States
+
+Date: 05/01/2019
+
+----------
+
+Venue: Observatory
+
+Location: Santa Ana, United States
+
+Date: 05/03/2019
+
+----------
+
+Venue: Fox Theater
+
+Location: Oakland, United States
+
+Date: 05/04/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: fm-84
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: rjd2
+
+
+Venue: No Vacancy Lounge
+
+Location: Portland, United States
+
+Date: 12/14/2018
+
+----------
+
+Venue: Nectar Lounge
+
+Location: Seattle, United States
+
+Date: 12/15/2018
+
+----------
+
+Venue: Ogden Theatre
+
+Location: Denver, United States
+
+Date: 01/20/2019
+
+----------
+
+Venue: Cornerstone Craft Beer & Live Music
+
+Location: Berkeley, United States
+
+Date: 02/01/2019
+
+----------
+
+Venue: Catalyst
+
+Location: Santa Cruz, United States
+
+Date: 02/02/2019
+
+----------
+
+Venue: Brooklyn Bowl
+
+Location: Brooklyn, United States
+
+Date: 02/19/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: kalax
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: 30 seconds to mars
+
+
+Venue: X107.5 Holiday Havoc '18
+
+Location: Las Vegas, United States
+
+Date: 12/05/2018
+
+----------
+
+Venue: Golden 1 Center
+
+Location: Sacramento, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: Alt 94.9 Not So Silent Night
+
+Location: Del Mar, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Cavea
+
+Location: Roma, Italy
+
+Date: 07/03/2019
+
+----------
+
+Venue: Gran Teatro Geox
+
+Location: Padova, Italy
+
+Date: 07/04/2019
+
+----------
+
+Venue: Piazza del Duomo
+
+Location: Pistoia, Italy
+
+Date: 07/06/2019
+
+----------
+
+Venue: Ufficio Collisioni Festival
+
+Location: Barolo, Italy
+
+Date: 07/07/2019
+
+----------
+
+Venue: Les Deferlantes
+
+Location: Argelès-sur-mer, France
+
+Date: 07/08/2019
+
+----------
+
+Venue: Musilac Festival 
+
+Location: Aix-les-bains, France
+
+Date: 07/11/2019
+
+----------
+
+Venue: Deichbrand Festival
+
+Location: Cuxhaven, Germany
+
+Date: 07/19/2019
+
+----------
+
+Venue: Banffy Castle
+
+Location: Bonțida, Romania
+
+Date: 07/21/2019
+
+----------
+
+Venue: Budapest Park Open Air
+
+Location: Budapest, Hungary
+
+Date: 07/23/2019
+
+----------
+
+Venue: Dolina Charlotty Fokarium
+
+Location: Strzelino, Poland
+
+Date: 07/25/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: between the buried and me
+
+
+Venue: 40 Watt Club
+
+Location: Athens, United States
+
+Date: 02/08/2019
+
+----------
+
+Venue: Ramkat
+
+Location: Winston-salem, United States
+
+Date: 02/09/2019
+
+----------
+
+Venue: Diamond Pub Concert Hall
+
+Location: Louisville, United States
+
+Date: 02/10/2019
+
+----------
+
+Venue: The Queen
+
+Location: Wilmington, United States
+
+Date: 02/12/2019
+
+----------
+
+Venue: Chameleon Club
+
+Location: Lancaster, United States
+
+Date: 02/13/2019
+
+----------
+
+Venue: Asbury Lanes
+
+Location: Asbury Park, United States
+
+Date: 02/14/2019
+
+----------
+
+Venue: Port City Music Hall
+
+Location: Portland, United States
+
+Date: 02/15/2019
+
+----------
+
+Venue: Wally's
+
+Location: Hampton, United States
+
+Date: 02/16/2019
+
+----------
+
+Venue: Anthology
+
+Location: Rochester, United States
+
+Date: 02/17/2019
+
+----------
+
+Venue: Agora
+
+Location: Cleveland, United States
+
+Date: 02/19/2019
+
+----------
+
+Venue: The Loft
+
+Location: Lansing, United States
+
+Date: 02/20/2019
+
+----------
+
+Venue: Turnover Hall Ballroom
+
+Location: Milwaukee, United States
+
+Date: 02/21/2019
+
+----------
+
+Venue: Wooly's
+
+Location: Des Moines, United States
+
+Date: 02/22/2019
+
+----------
+
+Venue: Slowdown
+
+Location: Omaha, United States
+
+Date: 02/23/2019
+
+----------
+
+Venue: Fox Theater
+
+Location: Boulder, United States
+
+Date: 02/24/2019
+
+----------
+
+Venue: Cargo
+
+Location: Reno, United States
+
+Date: 02/26/2019
+
+----------
+
+Venue: Strummers
+
+Location: Fresno, United States
+
+Date: 02/27/2019
+
+----------
+
+Venue: The Glasshouse
+
+Location: Pomona, United States
+
+Date: 03/01/2019
+
+----------
+
+Venue: The Rock
+
+Location: Tucson, United States
+
+Date: 03/02/2019
+
+----------
+
+Venue: Dos Amigos
+
+Location: Odessa, United States
+
+Date: 03/04/2019
+
+----------
+
+Venue: House of Rock
+
+Location: Corpus Christi, United States
+
+Date: 03/05/2019
+
+----------
+
+Venue: House of Blues
+
+Location: New Orleans, United States
+
+Date: 03/07/2019
+
+----------
+
+Venue: Vinyl
+
+Location: Pensacola, United States
+
+Date: 03/08/2019
+
+----------
+
+Venue: The Firmament
+
+Location: Greenville, United States
+
+Date: 03/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: hysterica
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: fate destroyed
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: michael buble
+
+
+Venue: Amalie Arena
+
+Location: Tampa, United States
+
+Date: 02/13/2019
+
+----------
+
+Venue: BB&T Center 
+
+Location: Sunrise,, United States
+
+Date: 02/15/2019
+
+----------
+
+Venue: Amway Center,
+
+Location: Orlando,, United States
+
+Date: 02/16/2019
+
+----------
+
+Venue: Infinite Energy Center
+
+Location: Duluth, United States
+
+Date: 02/17/2019
+
+----------
+
+Venue: Capital One Arena
+
+Location: Washington, United States
+
+Date: 02/19/2019
+
+----------
+
+Venue: Madison Square Garden
+
+Location: New York, United States
+
+Date: 02/20/2019
+
+----------
+
+Venue: PPG Paints Arena
+
+Location: Pittsburgh, United States
+
+Date: 02/22/2019
+
+----------
+
+Venue: Prudential Center
+
+Location: Newark, United States
+
+Date: 02/23/2019
+
+----------
+
+Venue: Wells Fargo Center 
+
+Location: Philadelphia,, United States
+
+Date: 02/24/2019
+
+----------
+
+Venue: DCU Center
+
+Location: Worcester, United States
+
+Date: 02/26/2019
+
+----------
+
+Venue: KeyBank Center 
+
+Location: Buffalo,, United States
+
+Date: 02/27/2019
+
+----------
+
+Venue: Little Caesars Arena (New Building)
+
+Location: Detroit, United States
+
+Date: 03/01/2019
+
+----------
+
+Venue: allstate arena limo
+
+Location: Rosemont,, United States
+
+Date: 03/17/2019
+
+----------
+
+Venue: Xcel Energy Center
+
+Location: St Paul, United States
+
+Date: 03/18/2019
+
+----------
+
+Venue: Sprint Center
+
+Location: Kansas City,, United States
+
+Date: 03/20/2019
+
+----------
+
+Venue: Enterprise Center 
+
+Location: St. Louis,, United States
+
+Date: 03/22/2019
+
+----------
+
+Venue: Pinnacle Bank Arena 
+
+Location: Lincoln,, United States
+
+Date: 03/23/2019
+
+----------
+
+Venue: American Airlines Center
+
+Location: Dallas, United States
+
+Date: 03/25/2019
+
+----------
+
+Venue: Toyota Center outside parking
+
+Location: Houston, United States
+
+Date: 03/26/2019
+
+----------
+
+Venue: AT&T Center
+
+Location: San Antonio,, United States
+
+Date: 03/27/2019
+
+----------
+
+Venue: Talking Stick Resort Arena
+
+Location: Phoenix, United States
+
+Date: 03/29/2019
+
+----------
+
+Venue: T-Mobile Arena (New Building)
+
+Location: Las Vegas, United States
+
+Date: 03/30/2019
+
+----------
+
+Venue: Valley View Casino Center - East Lot
+
+Location: San Diego, United States
+
+Date: 03/31/2019
+
+----------
+
+Venue: STAPLES Center
+
+Location: Los Angeles, United States
+
+Date: 04/02/2019
+
+----------
+
+Venue: Oracle Arena
+
+Location: Oakland, United States
+
+Date: 04/03/2019
+
+----------
+
+Venue: Moda Center
+
+Location: Portland, United States
+
+Date: 04/05/2019
+
+----------
+
+Venue: Tacoma Dome Station
+
+Location: Tacoma, United States
+
+Date: 04/06/2019
+
+----------
+
+Venue: Rogers Arena - Lot #987
+
+Location: Vancouver, Canada
+
+Date: 04/12/2019
+
+----------
+
+Venue: Rogers Place Ford Hall
+
+Location: Edmonton, Canada
+
+Date: 04/15/2019
+
+----------
+
+Venue: SaskTel Centre
+
+Location: Saskatoon, Canada
+
+Date: 04/18/2019
+
+----------
+
+Venue: Bell MTS Place
+
+Location: Winnipeg, Canada
+
+Date: 04/19/2019
+
+----------
+
+Venue: Genting Arena
+
+Location: Marston Green, United Kingdom
+
+Date: 05/20/2019
+
+----------
+
+Venue: The SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 05/23/2019
+
+----------
+
+Venue: Manchester Arena
+
+Location: Manchester, United Kingdom
+
+Date: 05/26/2019
+
+----------
+
+Venue: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 05/30/2019
+
+----------
+
+Venue: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 05/31/2019
+
+----------
+
+Venue: First Direct
+
+Location: Leeds, United Kingdom
+
+Date: 06/03/2019
+
+----------
+
+Venue: 3Arena
+
+Location: Dublin 1, Ireland
+
+Date: 06/06/2019
+
+----------
+
+Venue: SSE Arena
+
+Location: Belfast, United Kingdom
+
+Date: 06/09/2019
+
+----------
+
+Venue: Scotiabank Arena
+
+Location: Toronto, Canada
+
+Date: 07/26/2019
+
+----------
+
+Venue: Budweiser Gardens
+
+Location: London, Canada
+
+Date: 07/29/2019
+
+----------
+
+Venue: Canadian Tire Centre
+
+Location: Ottawa, Canada
+
+Date: 07/30/2019
+
+----------
+
+Venue: Bell Centre
+
+Location: Montréal, Canada
+
+Date: 08/01/2019
+
+----------
+
+Venue: City Centre Videotron 
+
+Location: Quebec City,, Canada
+
+Date: 08/03/2019
+
+----------
+
+Venue: Arena Armeec
+
+Location: Sofia, Bulgaria
+
+Date: 09/14/2019
+
+----------
+
+Venue: Arena Centar
+
+Location: Zagreb, Croatia
+
+Date: 09/16/2019
+
+----------
+
+Venue: O2 arena
+
+Location: Praha 9, Czech Republic
+
+Date: 09/17/2019
+
+----------
+
+Venue: Atlas Arena
+
+Location: Łódź, Poland
+
+Date: 09/19/2019
+
+----------
+
+Venue: Tauron Arena
+
+Location: Kraków, Poland
+
+Date: 09/20/2019
+
+----------
+
+Venue: Wiener Stadthalle
+
+Location: Wien, Austria
+
+Date: 09/21/2019
+
+----------
+
+Venue: Mediolanum
+
+Location: Assago, Italy
+
+Date: 09/23/2019
+
+----------
+
+Venue: Mediolanum Forum
+
+Location: Assago, Italy
+
+Date: 09/24/2019
+
+----------
+
+Venue: Hallenstadion
+
+Location: Zürich, Switzerland
+
+Date: 09/25/2019
+
+----------
+
+Venue: Palau Sant Jordi
+
+Location: Barcelona, Spain
+
+Date: 09/27/2019
+
+----------
+
+Venue: WiZink Center
+
+Location: Madrid, Spain
+
+Date: 09/28/2019
+
+----------
+
+Venue: Altice Arena
+
+Location: Lisboa, Portugal
+
+Date: 09/30/2019
+
+----------
+
+Venue: Hartwall Arena
+
+Location: Hki, Finland
+
+Date: 10/21/2019
+
+----------
+
+Venue: Ericsson Globe
+
+Location: Stockholm, Sweden
+
+Date: 10/23/2019
+
+----------
+
+Venue: Telenor Arena
+
+Location: Fornebu, Norway
+
+Date: 10/24/2019
+
+----------
+
+Venue: Royal Arena
+
+Location: København, Denmark
+
+Date: 10/26/2019
+
+----------
+
+Venue: TUI Arena
+
+Location: Hannover, Germany
+
+Date: 10/29/2019
+
+----------
+
+Venue: Mercedes-Benz Arena Berlin
+
+Location: Berlin, Germany
+
+Date: 10/30/2019
+
+----------
+
+Venue: Barclaycard Arena
+
+Location: Hamburg, Germany
+
+Date: 10/31/2019
+
+----------
+
+Venue: Ziggo Dome
+
+Location: Amsterdam, Netherlands
+
+Date: 11/02/2019
+
+----------
+
+Venue: Sportpaleis Antwerpen
+
+Location: Antwerpen, Belgium
+
+Date: 11/03/2019
+
+----------
+
+Venue: Lanxess Arena
+
+Location: Köln, Germany
+
+Date: 11/05/2019
+
+----------
+
+Venue: König-Pilsener-ARENA
+
+Location: Oberhausen, Germany
+
+Date: 11/06/2019
+
+----------
+
+Venue: SAP Arena
+
+Location: Ma, Germany
+
+Date: 11/08/2019
+
+----------
+
+Venue: Olympiahalle
+
+Location: München, Germany
+
+Date: 11/09/2019
+
+----------
+
+Venue: Red Bull Arena
+
+Location: Leipzig, Germany
+
+Date: 11/10/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: undefined
+Input: janelle monet
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: spotify-this-song
+Input: nino
+
+
+Artist(s): Roberto Tapia
+
+Song: El Niño De La Tuna
+
+Preview: null
+
+Album: El Nino De La Tuna
+
+----------
+
+Artist(s): LEGADO 7
+
+Song: El Niño
+
+Preview: https://p.scdn.co/mp3-preview/3351a0d4abda23eedccab36d5304ba64a3538e65?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Un Chamaco Sin Futuro
+
+----------
+
+Artist(s): Calibre 50
+
+Song: El Niño Sicario
+
+Preview: null
+
+Album: Lo Mejor De...
+
+----------
+
+Artist(s): Laberinto
+
+Song: El Niño de Oro
+
+Preview: https://p.scdn.co/mp3-preview/b483035503eda51e5f5e8349c95f707ffdeca790?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Caminos de la Vida
+
+----------
+
+Artist(s): Ice-T
+
+Song: New Jack Hustler (Nino's Theme)
+
+Preview: https://p.scdn.co/mp3-preview/f9d357d00f713278456ae0cfc12bcdb139711dae?cid=f68edaee890c45dcbd1482195f017817
+
+Album: O.G. Original Gangster
+
+----------
+
+Artist(s): Jerry Rivera
+
+Song: Cara de Niño
+
+Preview: https://p.scdn.co/mp3-preview/7059948a34800e37cc3d59d8ff8ddfae1ca6c0fd?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Cara De Niño
+
+----------
+
+Artist(s): C. Tangana
+
+Song: Un Veneno
+
+Preview: https://p.scdn.co/mp3-preview/9650b93fb3fb42a96a7f68e68e3056ffe01b26a5?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Un Veneno
+
+----------
+
+Artist(s): Bessie Turner
+
+Song: Nino
+
+Preview: https://p.scdn.co/mp3-preview/ef920bb7a9dc7f28d705d83925d8ed8826c595a8?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Nino
+
+----------
+
+Artist(s): Brown Boy
+
+Song: Superman
+
+Preview: https://p.scdn.co/mp3-preview/9d5fd27dd0864f4d677059f9cd802d1bfa04e5f5?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Livin Shady
+
+----------
+
+Artist(s): Los Buitres De Culiacan Sinaloa
+
+Song: Niño Sicario
+
+Preview: https://p.scdn.co/mp3-preview/886b26fbc4144d9df390a7a9eca1ee05e5fea84a?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Jalando a Todos
+
+----------
+
+Artist(s): Jerry Rivera
+
+Song: Cara de Niño
+
+Preview: https://p.scdn.co/mp3-preview/98dbdf6a4b7bd12278ec4b58cca18075b40de045?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Mis 30 Mejores Canciones
+
+----------
+
+Artist(s): Juan Magán
+
+Song: He Llorado (Como Un Niño)
+
+Preview: null
+
+Album: The King Is Back (#LatinIBIZAte)
+
+----------
+
+Artist(s): Banda los Costeños
+
+Song: El Niño de Oro
+
+Preview: https://p.scdn.co/mp3-preview/d9d2088822ce15a14d9afc4c831ec21e8c21c4b6?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Zirandaro Con Huetamo
+
+----------
+
+Artist(s): Los Plebes del Rancho de Ariel Camacho
+
+Song: Lo Que Aprendí Desde Niño
+
+Preview: https://p.scdn.co/mp3-preview/ad87ec358deb558a48dd34b34702b81509cec5d2?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Recuerden Mi Estilo (Edición Deluxe)
+
+----------
+
+Artist(s): Traviezoz de la Zierra
+
+Song: El Niño del Barrio
+
+Preview: https://p.scdn.co/mp3-preview/219052f78cb11d6d4bb3a3c3544871dfa56fdeaa?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Alto Al Fuego
+
+----------
+
+Artist(s): Los Elementos de Culiacan
+
+Song: Cuando Nino (feat. Lenin Ramirez - Banda
+
+Preview: https://p.scdn.co/mp3-preview/f87b2fe34de52706235f3dbf1bdf6b3aa364892d?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Jalando la Banda y el Tololoche
+
+----------
+
+Artist(s): Secreto "El Famoso Biberon"
+
+Song: La Vuelta
+
+Preview: https://p.scdn.co/mp3-preview/8400ae124372faaa190909ddcaa88302c7bc9ac4?cid=f68edaee890c45dcbd1482195f017817
+
+Album: La Vuelta
+
+----------
+
+Artist(s): Jerry Rivera
+
+Song: Qué Hay de Malo
+
+Preview: https://p.scdn.co/mp3-preview/c192a3e42c821e4eaf02b15779d3cc1be1115428?cid=f68edaee890c45dcbd1482195f017817
+
+Album: Cara De Niño
+
+----------
+
+Artist(s): El Tri
+
+Song: El niño sin amor
+
+Preview: https://p.scdn.co/mp3-preview/c1551813b4336a31c43fd7a704f48db51ea1f6b2?cid=f68edaee890c45dcbd1482195f017817
+
+Album: 20 Grandes Exitos
+
+----------
+
+Artist(s): Belanova
+
+Song: Niño
+
+Preview: null
+
+Album: Dulce Beat
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: concert-this
+Input: ino
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: concert-this
+Input: chvrches
+
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: harry potter
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+
+Release Year: 2011
+
+Ratings: Internet Movie Database: 8.1/10, Rotten Tomatoes: 96%, Metacritic: 87/100, 
+
+Country: USA, UK
+
+Language: English
+
+Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: concert-this
+Input: chvrches
+
+
+Venue: Pavillion
+
+Location: Tampa, United States
+
+Date: 12/02/2018
+
+----------
+
+Venue: Arvest Bank Theatre at the Midland
+
+Location: Kansas City, United States
+
+Date: 12/04/2018
+
+----------
+
+Venue: Barclays Center
+
+Location: Brooklyn, United States
+
+Date: 12/06/2018
+
+----------
+
+Venue: SAP Center
+
+Location: San Jose, United States
+
+Date: 12/08/2018
+
+----------
+
+Venue: The Forum
+
+Location: Inglewood, United States
+
+Date: 12/09/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Bream Creek, Australia
+
+Date: 12/30/2018
+
+----------
+
+Venue: Falls Festival
+
+Location: Lorne, Australia
+
+Date: 12/31/2018
+
+----------
+
+Venue: Field Day
+
+Location: Sydney, Australia
+
+Date: 01/01/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Byron Bay, Australia
+
+Date: 01/02/2019
+
+----------
+
+Venue: Falls Fest
+
+Location: Fremantle, Australia
+
+Date: 01/05/2019
+
+----------
+
+Venue: Sydney Opera House
+
+Location: Sydney, Australia
+
+Date: 01/07/2019
+
+----------
+
+Venue: Alexandra Palace
+
+Location: London, United Kingdom
+
+Date: 02/07/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/08/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Birmingham, United Kingdom
+
+Date: 02/09/2019
+
+----------
+
+Venue: Rock City
+
+Location: Nottingham, United Kingdom
+
+Date: 02/11/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Bournemouth, United Kingdom
+
+Date: 02/12/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/14/2019
+
+----------
+
+Venue: Victoria Warehouse
+
+Location: Manchester, United Kingdom
+
+Date: 02/15/2019
+
+----------
+
+Venue: SSE Hydro
+
+Location: Glasgow, United Kingdom
+
+Date: 02/16/2019
+
+----------
+
+Venue: O2 Academy
+
+Location: Newcastle Upon Tyne, United Kingdom
+
+Date: 02/18/2019
+
+----------
+
+Venue: Ulster Hall
+
+Location: Belfast, United Kingdom
+
+Date: 02/19/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/21/2019
+
+----------
+
+Venue: Olympia
+
+Location: Dublin, Ireland
+
+Date: 02/22/2019
+
+----------
+
+Venue: Zepp Bay
+
+Location: Osaka, Japan
+
+Date: 02/26/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 02/28/2019
+
+----------
+
+Venue: Toyosu Pit
+
+Location: Tokyo, Japan
+
+Date: 03/01/2019
+
+----------
+
+Venue: Sziget Festival
+
+Location: Budapest, Hungary
+
+Date: 08/08/2019
+
+----------
+
+Venue: Grape Festival
+
+Location: Piešťany, Slovakia
+
+Date: 08/09/2019
+
+----------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Command: movie-this
+Input: Batman
+
+Title: Batman
+
+Release Year: 1989
+
+Ratings: Internet Movie Database: 7.6/10, Rotten Tomatoes: 72%, Metacritic: 69/100, 
+
+Country: USA, UK
+
+Language: English, French, Spanish
+
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
